@@ -1,8 +1,8 @@
-# Dashboard OULAD - Trabajo Práctico Integrador 🎓
+# Dashboard OULAD - Trabajo Práctico Integrador
 
 Este repositorio contiene el código fuente y el análisis de datos para el Trabajo Práctico Integrador de la materia "Análisis de Datos Inicial" (Tecnicatura Universitaria en Programación).
 
-## 🚀 Contenido del Proyecto
+## Contenido del Proyecto
 
 1. **Jupyter Notebook (`Template_TPI_Analisis_Datos.ipynb`)**: 
    Contiene todo el proceso de Análisis de Datos, incluyendo la limpieza (ETL), tratamiento de nulos, detección de *outliers* y Feature Engineering, además de gráficos estadísticos con conclusiones relevantes.
@@ -16,7 +16,7 @@ Este repositorio contiene el código fuente y el análisis de datos para el Trab
    - `studentAssessment.csv`
    - `assessments.csv`
 
-## 🛠️ Requisitos de Instalación
+## Requisitos de Instalación
 
 ```bash
 # 1. Clonar el repositorio
